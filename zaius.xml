@@ -18920,7 +18920,7 @@
 		<default>0xFFFF</default>
 	</attribute>
 	<attribute>
-		<id>PCIE_LANE_SET</id>
+		<id>PCIE_LANE_GROUP</id>
 		<default>0</default>
 	</attribute>
 	<attribute>
@@ -19578,7 +19578,7 @@
 		<default>0xFF00</default>
 	</attribute>
 	<attribute>
-		<id>PCIE_LANE_SET</id>
+		<id>PCIE_LANE_GROUP</id>
 		<default>0</default>
 	</attribute>
 	<attribute>
@@ -19879,8 +19879,8 @@
 		<default>0x00FF</default>
 	</attribute>
 	<attribute>
-		<id>PCIE_LANE_SET</id>
-		<default>0</default>
+		<id>PCIE_LANE_GROUP</id>
+		<default>2</default>
 	</attribute>
 	<attribute>
 		<id>PCIE_NUM_LANES</id>
@@ -20538,7 +20538,7 @@
 		<default>0xFFFF</default>
 	</attribute>
 	<attribute>
-		<id>PCIE_LANE_SET</id>
+		<id>PCIE_LANE_GROUP</id>
 		<default>0</default>
 	</attribute>
 	<attribute>
@@ -20952,7 +20952,7 @@
 		<default>0xFF00</default>
 	</attribute>
 	<attribute>
-		<id>PCIE_LANE_SET</id>
+		<id>PCIE_LANE_GROUP</id>
 		<default>0</default>
 	</attribute>
 	<attribute>
@@ -21253,8 +21253,8 @@
 		<default>0x00FF</default>
 	</attribute>
 	<attribute>
-		<id>PCIE_LANE_SET</id>
-		<default>0</default>
+		<id>PCIE_LANE_GROUP</id>
+		<default>2</default>
 	</attribute>
 	<attribute>
 		<id>PCIE_NUM_LANES</id>
@@ -21668,8 +21668,8 @@
 		<default>0x00F0</default>
 	</attribute>
 	<attribute>
-		<id>PCIE_LANE_SET</id>
-		<default>0</default>
+		<id>PCIE_LANE_GROUP</id>
+		<default>2</default>
 	</attribute>
 	<attribute>
 		<id>PCIE_NUM_LANES</id>
@@ -21969,8 +21969,8 @@
 		<default>0x000F</default>
 	</attribute>
 	<attribute>
-		<id>PCIE_LANE_SET</id>
-		<default>0</default>
+		<id>PCIE_LANE_GROUP</id>
+		<default>3</default>
 	</attribute>
 	<attribute>
 		<id>PCIE_NUM_LANES</id>
